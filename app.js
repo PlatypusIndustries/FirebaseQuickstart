@@ -6,6 +6,7 @@ import {
   Text,
   View
 } from 'react-native';
+import firebaseApp from './firebaseConfig.js';
 
 export default class ReactNativeFirebase extends Component {
   render() {
