@@ -1,6 +1,6 @@
 # FirebaseQuickstart
 
-Quickstart template for a React Native application using Firebase
+Quickstart template for a React Native application using Firebase from http://platypus.is/posts/5. Check out our other Platyposts at http://platypus.is/posts.
 
 To get started:
 
