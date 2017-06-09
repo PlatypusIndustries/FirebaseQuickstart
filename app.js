@@ -6,6 +6,10 @@ import {
   Text,
   View
 } from 'react-native';
+// This will import your configured firebase reference from the component
+// It will be ready to use with methods like .auth() and .database()
+// For example you might use firebaseApp.auth().signInWithEmailAndPassword(email, password)
+// Or maybe firebaseApp.database().ref("your-reference")
 import firebaseApp from './firebaseConfig.js';
 
 export default class ReactNativeFirebase extends Component {
